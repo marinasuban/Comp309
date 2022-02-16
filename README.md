@@ -22,3 +22,7 @@ the course that have been explored so far, such as:
 • CRISP-DM and pipelines in general,
 • Feature manipulation, including feature selection, feature construction and imputation,
 • Statistical design and analysis of results
+
+A4 - Coverage
+
+A5 (Capstone) - Coverage
